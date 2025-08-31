@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Ummar Ali",
+        "contact": "03253939049",
+        "address": "near heart of soul jinnah",
+        "orders": [
+            {
+                "id": 1,
+                "product": "Mountain Bike",
+                "delivery_status": "[2025-08-29] cancled by user"
+            },
+            {
+                "id": 4,
+                "product": "Wrist Watch Elegant",
+                "delivery_status": "Pending"
+            }
+        ]
+    },
+    {
+        "name": "Asadullah",
+        "contact": "030125212323",
+        "address": "karachi defese plot number47",
+        "orders": [
+            {
+                "id": 2,
+                "product": "Sunglasses UV",
+                "delivery_status": "[2025-08-29] deliverd"
+            }
+        ]
+    },
+    {
+        "name": "asad shabir",
+        "contact": "03253939049",
+        "address": "shaikh muhalla sehwan shairf",
+        "orders": [
+            {
+                "id": 3,
+                "product": "Wrist Watch Elegant",
+                "delivery_status": "[2025-08-29] shipping"
+            }
+        ]
+    }
+]

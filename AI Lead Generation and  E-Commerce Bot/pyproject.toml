@@ -1,0 +1,13 @@
+[project]
+name = "ai-lead-generation-and-e-commerce-bot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "chainlit>=2.7.2",
+    "ddgs>=9.5.4",
+    "openai-agents>=0.2.9",
+    "pymupdf>=1.26.4",
+    "pypdf2>=3.0.1",
+]
